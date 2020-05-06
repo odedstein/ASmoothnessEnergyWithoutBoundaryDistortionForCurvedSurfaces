@@ -1,0 +1,3 @@
+[submodule "cpp_interface/libigl"]
+	path = cpp_interface/libigl
+	url = https://github.com/libigl/libigl.git
